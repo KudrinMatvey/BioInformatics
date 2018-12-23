@@ -1,6 +1,4 @@
-package Lab2;
-
-import com.sun.javafx.tools.resource.ResourceFilter;
+package Task1.Lab2;
 
 import java.util.ArrayList;
 import java.util.HashMap;
